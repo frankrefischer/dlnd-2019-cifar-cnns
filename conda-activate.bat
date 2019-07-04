@@ -1,0 +1,1 @@
+conda activate dlnd19cifarcnns
